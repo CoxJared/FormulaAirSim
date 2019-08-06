@@ -1,104 +1,104 @@
-	Time = 0.000000 Speed 0 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
+	Time = 0.000000 Speed 6 Gear 1
+COLLISION at pos <Vector3r> {   'x_val': -3.9062499126885086e-05,
+    'y_val': -1.9531249563442543e-05,
+    'z_val': 0.28111952543258667}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
     'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-Reading 0: time_stamp: 1564351280306921000 number_of_points: 778	lidar position: <Vector3r> {   'x_val': 0.0029025892727077007,
-    'y_val': -0.0009054347174242139,
-    'z_val': -0.8083934187889099}	lidar orientation: <Quaternionr> {   'w_val': 0.9396567940711975,
-    'x_val': -4.039486520923674e-05,
-    'y_val': -0.00015617946337442845,
-    'z_val': -0.34211868047714233}
-	Time = 1.000000 Speed 0 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
+    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': 0.662890613079071,
+    'y_val': -0.3560742139816284,
+    'z_val': 0.24400870501995087}, penetration -0.006733, name Landscape_0, obj id -1
+Reading 0: time_stamp: 1564617724443114600 number_of_points: 738	lidar position: <Vector3r> {   'x_val': 8.841721534729004,
+    'y_val': -9.099438667297363,
+    'z_val': -0.8110377788543701}	lidar orientation: <Quaternionr> {   'w_val': 0.8276974558830261,
+    'x_val': -0.0020325693767517805,
+    'y_val': 0.0034106611274182796,
+    'z_val': -0.5611606240272522}
+	Time = 1.000000 Speed 8 Gear 1
+COLLISION at pos <Vector3r> {   'x_val': -3.9062499126885086e-05,
+    'y_val': -1.9531249563442543e-05,
+    'z_val': 0.28111952543258667}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
     'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-	Time = 2.000000 Speed 2 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
+    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': 0.662890613079071,
+    'y_val': -0.3560742139816284,
+    'z_val': 0.24400870501995087}, penetration -0.006733, name Landscape_0, obj id -1
+	Time = 2.000000 Speed 9 Gear 1
+COLLISION at pos <Vector3r> {   'x_val': -3.9062499126885086e-05,
+    'y_val': -1.9531249563442543e-05,
+    'z_val': 0.28111952543258667}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
     'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-	Time = 3.000000 Speed 6 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
+    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': 0.662890613079071,
+    'y_val': -0.3560742139816284,
+    'z_val': 0.24400870501995087}, penetration -0.006733, name Landscape_0, obj id -1
+	Time = 3.000000 Speed 0 Gear 0
+COLLISION at pos <Vector3r> {   'x_val': -3.9062499126885086e-05,
+    'y_val': -1.9531249563442543e-05,
+    'z_val': 0.28111952543258667}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
     'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-Reading 3: time_stamp: 1564351283291973200 number_of_points: 816	lidar position: <Vector3r> {   'x_val': 4.133492469787598,
-    'y_val': -3.498990774154663,
-    'z_val': -0.8062519431114197}	lidar orientation: <Quaternionr> {   'w_val': 0.936433732509613,
-    'x_val': -0.0011267464142292738,
-    'y_val': -0.0024852233473211527,
-    'z_val': -0.3508338928222656}
+    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': 0.662890613079071,
+    'y_val': -0.3560742139816284,
+    'z_val': 0.24400870501995087}, penetration -0.006733, name Landscape_0, obj id -1
+Reading 3: time_stamp: 1564617727441017000 number_of_points: 852	lidar position: <Vector3r> {   'x_val': 2.669374942779541,
+    'y_val': -29.692598342895508,
+    'z_val': -0.8123853802680969}	lidar orientation: <Quaternionr> {   'w_val': 0.9933216571807861,
+    'x_val': 0.004661852028220892,
+    'y_val': 0.0031166228000074625,
+    'z_val': -0.11524205654859543}
 	Time = 4.000000 Speed 7 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
+COLLISION at pos <Vector3r> {   'x_val': -3.9062499126885086e-05,
+    'y_val': -1.9531249563442543e-05,
+    'z_val': 0.28111952543258667}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
     'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-	Time = 5.000000 Speed 6 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
+    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': 0.662890613079071,
+    'y_val': -0.3560742139816284,
+    'z_val': 0.24400870501995087}, penetration -0.006733, name Landscape_0, obj id -1
+	Time = 5.000000 Speed 9 Gear -1
+COLLISION at pos <Vector3r> {   'x_val': -3.9062499126885086e-05,
+    'y_val': -1.9531249563442543e-05,
+    'z_val': 0.28111952543258667}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
     'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-	Time = 6.000000 Speed 7 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
-    'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-Reading 6: time_stamp: 1564351286379375100 number_of_points: 761	lidar position: <Vector3r> {   'x_val': 4.369996070861816,
-    'y_val': -22.05632972717285,
-    'z_val': -0.8088468313217163}	lidar orientation: <Quaternionr> {   'w_val': 0.5430014729499817,
-    'x_val': 0.00025713161448948085,
-    'y_val': -0.0009116918663494289,
-    'z_val': -0.8397312760353088}
-	Time = 7.000000 Speed 7 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
-    'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-	Time = 8.000000 Speed 10 Gear 1
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
-    'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-	Time = 9.000000 Speed 2 Gear 0
-COLLISION at pos <Vector3r> {   'x_val': 0.0,
-    'y_val': 0.0,
-    'z_val': 0.24797119200229645}, normal <Vector3r> {   'x_val': -3.267610892976336e-08,
-    'y_val': 4.160247897289082e-07,
-    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': -0.32164061069488525,
-    'y_val': -0.32982420921325684,
-    'z_val': 0.24400870501995087}, penetration -0.031918, name Landscape_0, obj id -1
-Reading 9: time_stamp: 1564351289352957300 number_of_points: 696	lidar position: <Vector3r> {   'x_val': 18.395761489868164,
-    'y_val': -34.93019485473633,
-    'z_val': -0.8155902624130249}	lidar orientation: <Quaternionr> {   'w_val': 0.8241202235221863,
-    'x_val': 0.0008683167980052531,
-    'y_val': 0.006544472649693489,
-    'z_val': -0.5663765072822571}
+    'z_val': -1.0}, impact pt <Vector3r> {   'x_val': 0.662890613079071,
+    'y_val': -0.3560742139816284,
+    'z_val': 0.24400870501995087}, penetration -0.006733, name Landscape_0, obj id -1
+	Time = 6.000000 Speed 3 Gear 1
+COLLISION at pos <Vector3r> {   'x_val': 21.399765014648438,
+    'y_val': -34.090057373046875,
+    'z_val': 0.04645492509007454}, normal <Vector3r> {   'x_val': -0.02993040531873703,
+    'y_val': -0.014857782982289791,
+    'z_val': -0.9994415640830994}, impact pt <Vector3r> {   'x_val': 20.631561279296875,
+    'y_val': -33.246700286865234,
+    'z_val': 0.22798027098178864}, penetration -0.033101, name Landscape_0, obj id -1
+Reading 6: time_stamp: 1564617730487431200 number_of_points: 778	lidar position: <Vector3r> {   'x_val': 21.5196533203125,
+    'y_val': -34.07633972167969,
+    'z_val': -0.8706331253051758}	lidar orientation: <Quaternionr> {   'w_val': 0.8449766039848328,
+    'x_val': 0.047594234347343445,
+    'y_val': 0.029434526339173317,
+    'z_val': -0.5318674445152283}
+	Time = 7.000000 Speed 5 Gear 1
+COLLISION at pos <Vector3r> {   'x_val': 21.656719207763672,
+    'y_val': -34.33384704589844,
+    'z_val': 0.21784812211990356}, normal <Vector3r> {   'x_val': 0.05583177134394646,
+    'y_val': 0.03331483528017998,
+    'z_val': -0.997884213924408}, impact pt <Vector3r> {   'x_val': 22.127870559692383,
+    'y_val': -34.91972732543945,
+    'z_val': 0.20807921886444092}, penetration -0.019698, name Landscape_0, obj id -1
+	Time = 8.000000 Speed 8 Gear 1
+COLLISION at pos <Vector3r> {   'x_val': 21.656719207763672,
+    'y_val': -34.33384704589844,
+    'z_val': 0.21784812211990356}, normal <Vector3r> {   'x_val': 0.05583177134394646,
+    'y_val': 0.03331483528017998,
+    'z_val': -0.997884213924408}, impact pt <Vector3r> {   'x_val': 22.127870559692383,
+    'y_val': -34.91972732543945,
+    'z_val': 0.20807921886444092}, penetration -0.019698, name Landscape_0, obj id -1
+	Time = 9.000000 Speed 8 Gear 1
+COLLISION at pos <Vector3r> {   'x_val': 21.656719207763672,
+    'y_val': -34.33384704589844,
+    'z_val': 0.21784812211990356}, normal <Vector3r> {   'x_val': 0.05583177134394646,
+    'y_val': 0.03331483528017998,
+    'z_val': -0.997884213924408}, impact pt <Vector3r> {   'x_val': 22.127870559692383,
+    'y_val': -34.91972732543945,
+    'z_val': 0.20807921886444092}, penetration -0.019698, name Landscape_0, obj id -1
+Reading 9: time_stamp: 1564617733455049500 number_of_points: 788	lidar position: <Vector3r> {   'x_val': 19.3021297454834,
+    'y_val': -53.104305267333984,
+    'z_val': -0.8096505403518677}	lidar orientation: <Quaternionr> {   'w_val': 0.840877890586853,
+    'x_val': 0.00491928169503808,
+    'y_val': -0.002617521909996867,
+    'z_val': -0.5411962270736694}
